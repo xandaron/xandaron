@@ -3,7 +3,7 @@
 
 Current projects:
 - Chess engine: I'm working on a custom chess engine/bot in C#.
-- Celest: Celest is a project to create a graphics and physics engines to be used as part of a custom game engine.
+- Celest: Celest is a project to create a graphics and physics engines to be used as part of a custom game engine created in C++.
  
 <!---
 xandaron/xandaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
