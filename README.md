@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xandaron
 - 🌱 I have completed a bachelors in computer science at the University of York
-- I'm an aspiring developer with a love in particular for graphics programmer.
-- Open to work: If you like my work and have a position you think I'd be suited to please reach out!
+- 💡 I'm an aspiring developer with a love in particular for graphics programmer.
+- 💼 Open to work: If you like my work and have a position you think I'd be suited to please reach out!
 
 Current projects:
 - [Valhalla](https://github.com/xandaron/valhalla): A renderer written in odin using Vulkan, GLFW and imgui, Valhalla is a labour I have build over the course of a year. From having 0 clue what Vulkan was or how to render a triangle to a screen to creating a full interactive renderer I have learnt a LOT from this project. I'm proud of what it has become and what the future holds.
